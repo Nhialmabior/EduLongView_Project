@@ -1,0 +1,27 @@
+[
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T1",
+    "attendance": 94
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T2",
+    "attendance": 96
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2026-T1",
+    "attendance": 95
+  },
+  {
+    "learner_id": "LRN-0001",
+    "term": "2026-T1",
+    "attendance": 91
+  },
+  {
+    "learner_id": "LRN-0002",
+    "term": "2026-T1",
+    "attendance": 88
+  }
+]

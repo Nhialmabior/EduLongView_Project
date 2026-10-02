@@ -1,0 +1,32 @@
+[
+  {
+    "learner_id": "LRN-0001",
+    "name": "Amina K.",
+    "grade": "Grade 7"
+  },
+  {
+    "learner_id": "LRN-0002",
+    "name": "Daniel O.",
+    "grade": "Grade 7"
+  },
+  {
+    "learner_id": "LRN-0003",
+    "name": "Grace N.",
+    "grade": "Grade 7"
+  },
+  {
+    "learner_id": "LRN-0004",
+    "name": "Peter A.",
+    "grade": "Grade 8"
+  },
+  {
+    "learner_id": "LRN-0005",
+    "name": "Lina M.",
+    "grade": "Grade 8"
+  },
+  {
+    "learner_id": "LRN-0042",
+    "name": "Alex T.",
+    "grade": "Grade 7"
+  }
+]

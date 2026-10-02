@@ -1,0 +1,137 @@
+[
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T1",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "MATH-T1-A01",
+    "score": 78,
+    "note": "Good numerical reasoning."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T1",
+    "subject": "Science",
+    "type": "quiz",
+    "evidence_id": "SCI-T1-Q01",
+    "score": 72,
+    "note": "Participates well in practical work."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T1",
+    "subject": "English",
+    "type": "quiz",
+    "evidence_id": "ENG-T1-Q01",
+    "score": 68,
+    "note": "Reading comprehension needs support."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T2",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "MATH-T2-A02",
+    "score": 89,
+    "note": "Strong ability to interpret diagrams."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T2",
+    "subject": "Pretechnical",
+    "type": "project",
+    "evidence_id": "TECH-T2-P01",
+    "score": 91,
+    "note": "Excellent practical construction work."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T2",
+    "subject": "English",
+    "type": "assignment",
+    "evidence_id": "ENG-T2-A02",
+    "score": 65,
+    "note": "Main idea identification remains difficult."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2026-T1",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "MATH-T3-A01",
+    "score": 90,
+    "note": "Consistent improvement."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2026-T1",
+    "subject": "Science",
+    "type": "practical",
+    "evidence_id": "SCI-T3-P02",
+    "score": 83,
+    "note": "Strong practical reasoning."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2026-T1",
+    "subject": "English",
+    "type": "quiz",
+    "evidence_id": "ENG-T3-Q02",
+    "score": 67,
+    "note": "Some improvement but still below overall profile."
+  },
+  {
+    "learner_id": "LRN-0001",
+    "term": "2025-T1",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "M1-A01",
+    "score": 81,
+    "note": "Strong arithmetic."
+  },
+  {
+    "learner_id": "LRN-0001",
+    "term": "2025-T2",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "M1-A02",
+    "score": 85,
+    "note": "Improving steadily."
+  },
+  {
+    "learner_id": "LRN-0001",
+    "term": "2026-T1",
+    "subject": "Mathematics",
+    "type": "assignment",
+    "evidence_id": "M1-A03",
+    "score": 88,
+    "note": "Consistent performance."
+  },
+  {
+    "learner_id": "LRN-0002",
+    "term": "2025-T1",
+    "subject": "Science",
+    "type": "quiz",
+    "evidence_id": "S2-Q01",
+    "score": 54,
+    "note": "Needs more guided practice."
+  },
+  {
+    "learner_id": "LRN-0002",
+    "term": "2025-T2",
+    "subject": "Science",
+    "type": "quiz",
+    "evidence_id": "S2-Q02",
+    "score": 61,
+    "note": "Improving."
+  },
+  {
+    "learner_id": "LRN-0002",
+    "term": "2026-T1",
+    "subject": "Science",
+    "type": "quiz",
+    "evidence_id": "S2-Q03",
+    "score": 69,
+    "note": "Positive trend."
+  }
+]

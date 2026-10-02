@@ -1,0 +1,20 @@
+[
+  {
+    "learner_id": "LRN-0042",
+    "term": "2025-T2",
+    "evidence_id": "OBS-T2-0042",
+    "observation": "Participates actively in practical activities and explains diagrams clearly."
+  },
+  {
+    "learner_id": "LRN-0042",
+    "term": "2026-T1",
+    "evidence_id": "OBS-T3-0042",
+    "observation": "Shows persistence when solving practical tasks."
+  },
+  {
+    "learner_id": "LRN-0001",
+    "term": "2026-T1",
+    "evidence_id": "OBS-T3-0001",
+    "observation": "Consistent participation in mathematics activities."
+  }
+]
